@@ -1,0 +1,28 @@
+[22:03:48] --- band 0: lowpass 2.5 Hz, 8 iterations ---
+[22:03:49] band=0 iter=0 J=5.535946e-12 step=90 accepted=True accepted
+[22:03:50] band=0 iter=1 J=4.184766e-12 step=180 accepted=True accepted
+[22:03:52] band=0 iter=2 J=2.978898e-12 step=360 accepted=True accepted
+[22:03:53] band=0 iter=3 J=2.442775e-12 step=180 accepted=True accepted
+[22:03:55] band=0 iter=4 J=2.410827e-12 step=180 accepted=True accepted
+[22:03:56] band=0 iter=5 J=2.410682e-12 step=180 accepted=True accepted
+[22:03:57] band=0 iter=6 J=2.404498e-12 step=360 accepted=True accepted
+[22:03:59] band=0 iter=7 J=2.394430e-12 step=720 accepted=True accepted
+[22:03:59] --- band 1: lowpass 5 Hz, 8 iterations ---
+[22:04:00] band=1 iter=0 J=2.695796e-11 step=90 accepted=True accepted
+[22:04:01] band=1 iter=1 J=2.473959e-11 step=180 accepted=True accepted
+[22:04:02] band=1 iter=2 J=1.982935e-11 step=360 accepted=True accepted
+[22:04:04] band=1 iter=3 J=1.028255e-11 step=180 accepted=True accepted
+[22:04:05] band=1 iter=4 J=8.256754e-12 step=180 accepted=True accepted
+[22:04:07] band=1 iter=5 J=7.734835e-12 step=90 accepted=True accepted
+[22:04:08] band=1 iter=6 J=7.670438e-12 step=90 accepted=True accepted
+[22:04:10] band=1 iter=7 J=7.485961e-12 step=90 accepted=True accepted
+[22:04:10] --- band 2: lowpass 10 Hz, 8 iterations ---
+[22:04:11] band=2 iter=0 J=1.431107e-11 step=90 accepted=True accepted
+[22:04:12] band=2 iter=1 J=6.058601e-12 step=45 accepted=True accepted
+[22:04:14] band=2 iter=2 J=4.405839e-12 step=45 accepted=True accepted
+[22:04:15] band=2 iter=3 J=3.353010e-12 step=45 accepted=True accepted
+[22:04:17] band=2 iter=4 J=3.140647e-12 step=45 accepted=True accepted
+[22:04:18] band=2 iter=5 J=2.677399e-12 step=45 accepted=True accepted
+[22:04:20] band=2 iter=6 J=2.593906e-12 step=45 accepted=True accepted
+[22:04:21] band=2 iter=7 J=2.250500e-12 step=45 accepted=True accepted
+[22:04:21] run finished: completed — all bands finished
